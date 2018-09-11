@@ -1,0 +1,19 @@
+{
+  "name": "twinschaindemo",
+  "version": "1.0.0",
+  "description": "Demo for twinschain based on https://bitbucket.org/twinscoin/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmt219/twinschaindemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmt219/twinschaindemo/issues"
+  },
+  "homepage": "https://github.com/dmt219/twinschaindemo#readme"
+}
